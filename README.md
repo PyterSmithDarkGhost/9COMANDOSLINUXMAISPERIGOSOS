@@ -1,5 +1,6 @@
 Os 9 comandos mais perigosos do Linux
-Tempo de leitura: 2 minutos
+
+
 Existem alguns comandos do Linux que podem travar o sistema operacional ou até danificá-lo permanentemente. Eis os 9 mais perigosos.
 
 sudo rm -rf /* 2>/dev/null
